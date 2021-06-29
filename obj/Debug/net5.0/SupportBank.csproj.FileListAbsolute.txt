@@ -1,0 +1,16 @@
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\bin\Debug\net5.0\SupportBank.exe
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\bin\Debug\net5.0\SupportBank.deps.json
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\bin\Debug\net5.0\SupportBank.runtimeconfig.json
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\bin\Debug\net5.0\SupportBank.runtimeconfig.dev.json
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\bin\Debug\net5.0\SupportBank.dll
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\bin\Debug\net5.0\ref\SupportBank.dll
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\bin\Debug\net5.0\SupportBank.pdb
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\SupportBank.csproj.AssemblyReference.cache
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\SupportBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\SupportBank.AssemblyInfoInputs.cache
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\SupportBank.AssemblyInfo.cs
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\SupportBank.csproj.CoreCompileInputs.cache
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\SupportBank.dll
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\ref\SupportBank.dll
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\SupportBank.pdb
+C:\TechSwitchTraining\SupportBank_Ken\SupportBank\obj\Debug\net5.0\SupportBank.genruntimeconfig.cache
